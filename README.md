@@ -1,1 +1,6 @@
 # Joke--machine
+I have been building a cool joke machine using python!It asks people questions and then drop a fuuny punchline.
+I talked about how to make people joke flow better so the person feels good, instead of saying their answers are "terrible." I changed it so that their answer is acknowledge, then share the joke. Amazing rigth?
+I wanted to add sound effects to my jokes (like applause!) but unfortunately i was unable to the that due to the version off python i was using.
+For section 2  i wanted some jokes to be more of a challenge. so i changed some to be more like riddles, so people have to think a bit harder before the answer. for example ; i looked at how to either make it a proper riddle or adjust the way i talk or present the joke about the user's guess for a standard Q&A joke.then finally we refines how a recent golf joke was presented to ensure the interaction flows smoothly when the user gives their guess.
+Then for section 3 I wanted this section of code to be the main interaction point in this joke machine so therefore made something similar to a loop to display each joke category from the jokes by asking them to pick the their own desire joke  by guiding them, I have assisted them by coding a user friendly guide  each step all is left is for them to input their ideas
